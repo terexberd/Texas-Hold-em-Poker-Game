@@ -1,0 +1,615 @@
+       * * * Game Log * * *
+- Game started 02 August 2018  -  07 : 49
+- Username: 2
+- Players: 7
+  Winston Churchill, Ulysses S. Grant, Alexander the Great, Elizabeth Taylor, Vincent van Gogh, Ernest Hemingway, Benjamin Franklin
+
+- Hand 1
+
+Preflop:
+Cards Dealt:
+Winston Churchill: hearts ten, spades seven
+Ulysses S. Grant: clubs king, hearts king
+Alexander the Great: spades eight, diamonds ace
+Elizabeth Taylor: diamonds seven, clubs deuce
+Vincent van Gogh: spades three, diamonds eight
+Ernest Hemingway: diamonds six, clubs eight
+Benjamin Franklin: hearts ace, clubs ace
+2: diamonds deuce, clubs seven
+Elizabeth Taylor Has Dealt.
+Ulysses S. Grant is the big blind.
+Player's turn, Calling Bets 0
+Alexander the Great Has Called 20
+Ernest Hemingway Has Called 20
+Benjamin Franklin Has Called 20
+Player's turn, Calling Bets 20
+Player's turn, Calling Bets 20
+Player's turn, Calling Bets 20
+2 Has Folded.
+Vincent van Gogh Has Called 20
+
+Flop:
+Player's turn, Calling Bets 0
+
+Turn:
+Player's turn, Calling Bets 0
+
+River:
+2 folded
+Winston Churchill calls
+Ulysses S. Grant calls
+Alexander the Great calls
+Elizabeth Taylor calls
+Vincent van Gogh calls
+Ernest Hemingway calls
+Benjamin Franklin calls
+Player's turn, Calling Bets 0
+
+Final:
+Player's turn, Calling Bets 0
+The winner is Benjamin Franklin with Two Pair, Aces High, and Benjamin Franklin wins $110
+
+
+- Hand 2
+
+Preflop:
+Cards Dealt:
+Winston Churchill: clubs queen, spades queen
+Ulysses S. Grant: hearts five, diamonds king
+Alexander the Great: hearts deuce, hearts king
+Elizabeth Taylor: spades six, clubs five
+Vincent van Gogh: spades jack, clubs deuce
+Ernest Hemingway: clubs four, clubs eight
+Benjamin Franklin: spades king, diamonds nine
+2: hearts ace, hearts jack
+Winston Churchill Has Dealt.
+Alexander the Great is the big blind.
+Player's turn, Calling Bets 0
+Ernest Hemingway Has Called 20
+Benjamin Franklin Has Called 20
+Player's turn, Calling Bets 20
+Player's turn, Calling Bets 20
+Player's turn, Calling Bets 20
+Player's turn, Calling Bets 20
+2 Has Folded.
+Vincent van Gogh Has Called 20
+Elizabeth Taylor Has Called 20
+Winston Churchill Has Called 20
+
+Flop:
+Player's turn, Calling Bets 0
+
+Turn:
+Player's turn, Calling Bets 0
+
+River:
+2 folded
+Winston Churchill calls
+Ulysses S. Grant calls
+Alexander the Great calls
+Elizabeth Taylor calls
+Vincent van Gogh calls
+Ernest Hemingway calls
+Benjamin Franklin calls
+Player's turn, Calling Bets 0
+
+Final:
+Player's turn, Calling Bets 0
+The winner is Ernest Hemingway with A Ace High Flush, and Ernest Hemingway wins $130
+
+
+- Hand 3
+
+Preflop:
+Cards Dealt:
+Winston Churchill: spades queen, hearts jack
+Ulysses S. Grant: spades three, clubs jack
+Alexander the Great: clubs king, diamonds five
+Elizabeth Taylor: hearts eight, diamonds four
+Vincent van Gogh: clubs three, clubs seven
+Ernest Hemingway: clubs eight, hearts three
+Benjamin Franklin: spades king, diamonds queen
+2: hearts four, clubs ace
+Ulysses S. Grant Has Dealt.
+Ernest Hemingway is the big blind.
+Player's turn, Calling Bets 0
+Benjamin Franklin Has Called 20
+Player's turn, Calling Bets 20
+Player's turn, Calling Bets 20
+Player's turn, Calling Bets 20
+Player's turn, Calling Bets 20
+Player's turn, Calling Bets 20
+2 Has Folded.
+Vincent van Gogh Has Called 20
+Elizabeth Taylor Has Called 20
+Winston Churchill Has Called 20
+Ulysses S. Grant Has Called 20
+
+Flop:
+Player's turn, Calling Bets 0
+
+Turn:
+Player's turn, Calling Bets 0
+
+River:
+2 folded
+Winston Churchill calls
+Ulysses S. Grant calls
+Alexander the Great calls
+Elizabeth Taylor calls
+Vincent van Gogh calls
+Ernest Hemingway calls
+Benjamin Franklin calls
+Player's turn, Calling Bets 0
+
+Final:
+Player's turn, Calling Bets 0
+The winner is Winston Churchill with Two Pair, Jacks High, and Winston Churchill wins $130
+
+
+- Hand 4
+
+Preflop:
+Cards Dealt:
+Winston Churchill: diamonds deuce, clubs ace
+Ulysses S. Grant: hearts six, clubs five
+Alexander the Great: hearts nine, spades six
+Elizabeth Taylor: hearts king, clubs four
+Vincent van Gogh: diamonds ten, hearts four
+Ernest Hemingway: hearts deuce, diamonds nine
+Benjamin Franklin: clubs six, hearts ten
+2: diamonds eight, hearts eight
+Alexander the Great Has Dealt.
+Benjamin Franklin is the big blind.
+Player's turn, Calling Bets 0
+Player's turn, Calling Bets 20
+Player's turn, Calling Bets 20
+Player's turn, Calling Bets 20
+Player's turn, Calling Bets 20
+Player's turn, Calling Bets 20
+Player's turn, Calling Bets 20
+2 Has Folded.
+Vincent van Gogh Has Called 20
+Elizabeth Taylor Has Called 20
+Winston Churchill Has Called 20
+Ulysses S. Grant Has Called 20
+Alexander the Great Has Called 20
+
+Flop:
+Player's turn, Calling Bets 0
+
+Turn:
+Player's turn, Calling Bets 0
+
+River:
+2 folded
+Winston Churchill calls
+Ulysses S. Grant calls
+Alexander the Great calls
+Elizabeth Taylor calls
+Vincent van Gogh calls
+Ernest Hemingway calls
+Benjamin Franklin calls
+Player's turn, Calling Bets 0
+
+Final:
+Player's turn, Calling Bets 0
+The winner is Winston Churchill with A Three of a Kind with Aces, and Winston Churchill wins $130
+
+
+- Hand 5
+
+Preflop:
+Cards Dealt:
+Winston Churchill: clubs five, spades seven
+Ulysses S. Grant: spades eight, clubs jack
+Alexander the Great: clubs deuce, spades deuce
+Elizabeth Taylor: hearts jack, diamonds four
+Vincent van Gogh: spades king, spades ten
+Ernest Hemingway: spades three, diamonds king
+Benjamin Franklin: spades queen, diamonds five
+2: spades nine, diamonds nine
+Ernest Hemingway Has Dealt.
+You are the big blind
+2 is the big blind.
+Player's turn, Calling Bets 0
+Vincent van Gogh Has Called 20
+Elizabeth Taylor Has Called 20
+Winston Churchill Has Called 20
+Ulysses S. Grant Has Called 20
+Alexander the Great Has Called 20
+Ernest Hemingway Has Called 20
+
+Flop:
+Player's turn, Calling Bets 0
+Benjamin Franklin Has Called.
+Player's turn, Calling Bets 0
+2 Has Folded.
+Vincent van Gogh Has Bet 20
+Elizabeth Taylor Has Bet 30
+Winston Churchill Has Bet 69
+Ulysses S. Grant Has Bet 84
+Ernest Hemingway Has Bet 91
+Player's turn, Calling Bets 91
+
+Turn:
+Player's turn, Calling Bets 0
+
+River:
+2 folded
+Winston Churchill calls
+Ulysses S. Grant calls
+Alexander the Great calls
+Elizabeth Taylor calls
+Vincent van Gogh calls
+Ernest Hemingway calls
+Benjamin Franklin calls
+Player's turn, Calling Bets 0
+
+Final:
+Player's turn, Calling Bets 0
+The winner is Ulysses S. Grant with Two Pair, Jacks High, and Ulysses S. Grant wins $444
+
+
+- Hand 6
+
+Preflop:
+Cards Dealt:
+Winston Churchill: spades eight, diamonds eight
+Ulysses S. Grant: spades four, clubs deuce
+Alexander the Great: diamonds nine, spades nine
+Elizabeth Taylor: diamonds jack, clubs seven
+Vincent van Gogh: diamonds six, diamonds five
+Ernest Hemingway: hearts jack, hearts six
+Benjamin Franklin: clubs jack, diamonds queen
+2: hearts seven, clubs ten
+Benjamin Franklin Has Dealt.
+You are the small blind
+Vincent van Gogh is the big blind.
+Player's turn, Calling Bets 0
+Elizabeth Taylor Has Called 20
+Winston Churchill Has Called 20
+Alexander the Great Has Called 20
+Ernest Hemingway Has Called 20
+Benjamin Franklin Has Called 20
+
+Flop:
+Player's turn, Calling Bets 0
+Player's turn, Calling Bets 0
+Player's turn, Calling Bets 0
+2 Has Folded.
+Vincent van Gogh Has Called.
+Elizabeth Taylor Has Bet 23
+Winston Churchill Has Bet 45
+Alexander the Great Has Bet 87
+Benjamin Franklin Has Bet 123
+Player's turn, Calling Bets 123
+
+Turn:
+Player's turn, Calling Bets 0
+
+River:
+2 folded
+Winston Churchill calls
+Ulysses S. Grant calls
+Alexander the Great calls
+Elizabeth Taylor calls
+Vincent van Gogh calls
+Ernest Hemingway calls
+Benjamin Franklin calls
+Player's turn, Calling Bets 0
+
+Final:
+Player's turn, Calling Bets 0
+The winner is Alexander the Great with A Full House,  Nines High, and Alexander the Great wins $408
+
+
+- Hand 7
+
+Preflop:
+Cards Dealt:
+Winston Churchill: diamonds jack, clubs four
+Ulysses S. Grant: diamonds king, spades queen
+Alexander the Great: hearts king, spades ten
+Elizabeth Taylor: diamonds nine, hearts queen
+Vincent van Gogh: spades six, clubs ten
+Ernest Hemingway: diamonds four, spades deuce
+Benjamin Franklin: spades five, hearts three
+2: hearts seven, diamonds queen
+2 Has Dealt.
+Elizabeth Taylor is the big blind.
+Player's turn, Calling Bets 0
+Winston Churchill Has Called 20
+Ulysses S. Grant Has Called 20
+Alexander the Great Has Called 20
+Player's turn, Calling Bets 20
+2 Has Folded.
+
+Flop:
+Player's turn, Calling Bets 0
+
+Turn:
+Player's turn, Calling Bets 0
+
+River:
+2 folded
+Winston Churchill calls
+Ulysses S. Grant calls
+Alexander the Great calls
+Elizabeth Taylor calls
+Vincent van Gogh calls
+Ernest Hemingway calls
+Benjamin Franklin calls
+Player's turn, Calling Bets 0
+
+Final:
+Player's turn, Calling Bets 0
+The winner is Vincent van Gogh with A Three of a Kind with Sixes, and Vincent van Gogh wins $90
+
+
+- Hand 8
+
+Preflop:
+Cards Dealt:
+Winston Churchill: clubs eight, hearts nine
+Ulysses S. Grant: spades four, clubs ten
+Alexander the Great: spades queen, spades eight
+Elizabeth Taylor: spades deuce, hearts ten
+Vincent van Gogh: clubs seven, hearts seven
+Ernest Hemingway: spades six, diamonds jack
+Benjamin Franklin: diamonds deuce, spades seven
+2: diamonds six, spades ace
+Vincent van Gogh Has Dealt.
+Winston Churchill is the big blind.
+Player's turn, Calling Bets 0
+Ulysses S. Grant Has Called 20
+Alexander the Great Has Called 20
+Ernest Hemingway Has Called 20
+Player's turn, Calling Bets 20
+Player's turn, Calling Bets 20
+2 Has Folded.
+Vincent van Gogh Has Called 20
+
+Flop:
+Player's turn, Calling Bets 0
+
+Turn:
+Player's turn, Calling Bets 0
+
+River:
+2 folded
+Winston Churchill calls
+Ulysses S. Grant calls
+Alexander the Great calls
+Elizabeth Taylor calls
+Vincent van Gogh calls
+Ernest Hemingway calls
+Benjamin Franklin calls
+Player's turn, Calling Bets 0
+
+Final:
+Player's turn, Calling Bets 0
+The winner is Vincent van Gogh with A Three of a Kind with Sevens, and Vincent van Gogh wins $110
+
+
+- Hand 9
+
+Preflop:
+Cards Dealt:
+Winston Churchill: clubs six, clubs deuce
+Ulysses S. Grant: spades four, hearts ten
+Alexander the Great: hearts nine, spades nine
+Elizabeth Taylor: diamonds five, diamonds queen
+Vincent van Gogh: clubs nine, hearts queen
+Ernest Hemingway: clubs queen, diamonds eight
+Benjamin Franklin: hearts five, hearts seven
+2: clubs ace, diamonds three
+Elizabeth Taylor Has Dealt.
+Ulysses S. Grant is the big blind.
+Player's turn, Calling Bets 0
+Alexander the Great Has Called 20
+Ernest Hemingway Has Called 20
+Benjamin Franklin Has Called 20
+Player's turn, Calling Bets 20
+Player's turn, Calling Bets 20
+Player's turn, Calling Bets 20
+2 Has Called.
+Vincent van Gogh Has Called 20
+Elizabeth Taylor Has Called 20
+
+Flop:
+Player's turn, Calling Bets 0
+Winston Churchill Has Bet 22
+Alexander the Great Has Bet 34
+Player's turn, Calling Bets 34
+2 Has Called.
+Winston Churchill Has Bet 50
+Alexander the Great Has Bet 76
+Vincent van Gogh Has Bet 149
+Player's turn, Calling Bets 149
+Player's turn, Calling Bets 149
+Winston Churchill Has Called.
+Alexander the Great Has Called.
+Player's turn, Calling Bets 149
+2 Has Called.
+
+Turn:
+Player's turn, Calling Bets 0
+Alexander the Great Has Bet 33
+Player's turn, Calling Bets 33
+2 Has Called.
+Vincent van Gogh Has Bet 44
+Player's turn, Calling Bets 44
+Player's turn, Calling Bets 44
+Alexander the Great Has Called.
+Player's turn, Calling Bets 44
+2 Has Called.
+
+River:
+Player's turn, Calling Bets 0
+Alexander the Great Has Bet 35
+Player's turn, Calling Bets 35
+2 Has Called.
+Vincent van Gogh Has Bet 93
+Player's turn, Calling Bets 93
+Player's turn, Calling Bets 93
+Alexander the Great Has Called.
+Player's turn, Calling Bets 93
+2 Has Called.
+
+Final:
+Player's turn, Calling Bets 0
+Alexander the Great Has Bet 22
+Player's turn, Calling Bets 22
+The winner is Vincent van Gogh with A King High Straight, and Vincent van Gogh wins $1531
+
+
+- Hand 10
+
+Preflop:
+Cards Dealt:
+Winston Churchill: diamonds nine, diamonds deuce
+Ulysses S. Grant: clubs six, clubs four
+Alexander the Great: clubs ace, clubs five
+Elizabeth Taylor: hearts five, hearts jack
+Vincent van Gogh: hearts nine, diamonds queen
+Ernest Hemingway: diamonds eight, spades jack
+Benjamin Franklin: hearts deuce, diamonds ace
+2: spades deuce, diamonds six
+Winston Churchill Has Dealt.
+Alexander the Great is the big blind.
+Player's turn, Calling Bets 0
+Ernest Hemingway Has Called 20
+Benjamin Franklin Has Called 20
+Player's turn, Calling Bets 20
+Player's turn, Calling Bets 20
+Player's turn, Calling Bets 20
+Player's turn, Calling Bets 20
+2 Has Called.
+Vincent van Gogh Has Called 20
+Elizabeth Taylor Has Called 20
+Winston Churchill Has Called 20
+
+Flop:
+Player's turn, Calling Bets 0
+Alexander the Great Has Bet 29
+Player's turn, Calling Bets 29
+2 Has Called.
+Vincent van Gogh Has Bet 99
+Winston Churchill Has Bet 106
+Player's turn, Calling Bets 106
+Player's turn, Calling Bets 106
+Alexander the Great Has Called.
+Player's turn, Calling Bets 106
+2 Has Called.
+Vincent van Gogh Has Called.
+
+Turn:
+Player's turn, Calling Bets 0
+Player's turn, Calling Bets 0
+2 Has Called.
+Vincent van Gogh Has Bet 40
+Player's turn, Calling Bets 40
+Player's turn, Calling Bets 40
+Player's turn, Calling Bets 40
+2 Has Called.
+
+River:
+Player's turn, Calling Bets 0
+Player's turn, Calling Bets 0
+2 Has Called.
+Vincent van Gogh Has Bet 108
+Player's turn, Calling Bets 108
+Player's turn, Calling Bets 108
+Player's turn, Calling Bets 108
+2 Has Called.
+
+Final:
+Player's turn, Calling Bets 0
+Player's turn, Calling Bets 0
+The winner is Vincent van Gogh with A Three of a Kind with Queens, and Vincent van Gogh wins $1027
+
+
+- Hand 11
+
+Preflop:
+Cards Dealt:
+Winston Churchill: hearts seven, diamonds ace
+Ulysses S. Grant: clubs three, clubs six
+Alexander the Great: diamonds jack, clubs nine
+Elizabeth Taylor: spades eight, diamonds seven
+Vincent van Gogh: diamonds king, clubs eight
+Ernest Hemingway: hearts eight, spades three
+Benjamin Franklin: hearts queen, clubs queen
+2: hearts four, clubs four
+Ulysses S. Grant Has Dealt.
+Ernest Hemingway is the big blind.
+Player's turn, Calling Bets 0
+Benjamin Franklin Has Called 20
+Player's turn, Calling Bets 20
+Player's turn, Calling Bets 20
+Player's turn, Calling Bets 20
+Player's turn, Calling Bets 20
+Player's turn, Calling Bets 20
+2 Has Called.
+Vincent van Gogh Has Called 20
+Elizabeth Taylor Has Called 20
+Winston Churchill Has Called 20
+Ulysses S. Grant Has Called 20
+
+Flop:
+Player's turn, Calling Bets 0
+Alexander the Great Has Bet 17
+Benjamin Franklin Has Bet 28
+Player's turn, Calling Bets 28
+2 Has Called.
+Alexander the Great Has Bet 33
+Benjamin Franklin Has Bet 53
+Elizabeth Taylor Has Bet 102
+Player's turn, Calling Bets 102
+Player's turn, Calling Bets 102
+Alexander the Great Has Called.
+Benjamin Franklin Has Called.
+Player's turn, Calling Bets 102
+2 Has Called.
+
+Turn:
+Player's turn, Calling Bets 0
+Alexander the Great Has Bet 19
+Benjamin Franklin Has Bet 38
+Player's turn, Calling Bets 38
+2 Has Called.
+Alexander the Great Has Bet 49
+Benjamin Franklin Has Bet 82
+Elizabeth Taylor Has Bet 107
+Player's turn, Calling Bets 107
+Player's turn, Calling Bets 107
+Alexander the Great Has Called.
+Benjamin Franklin Has Called.
+Player's turn, Calling Bets 107
+2 Has Called.
+
+River:
+Player's turn, Calling Bets 0
+Alexander the Great Has Bet 14
+Benjamin Franklin Has Bet 23
+Player's turn, Calling Bets 23
+2 Has Called.
+Alexander the Great Has Bet 30
+Benjamin Franklin Has Bet 43
+Elizabeth Taylor Has Bet 48
+Player's turn, Calling Bets 48
+Player's turn, Calling Bets 48
+Alexander the Great Has Called.
+Benjamin Franklin Has Called.
+Player's turn, Calling Bets 48
+2 Has Called.
+
+Final:
+Player's turn, Calling Bets 0
+Alexander the Great Has Bet 11
+Benjamin Franklin Has Bet 16
+Player's turn, Calling Bets 16
+The winner is Elizabeth Taylor with A Nine High Straight, and Elizabeth Taylor wins $1616
+
+- Game ends 02 August 2018  -  07 : 51
